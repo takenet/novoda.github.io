@@ -150,6 +150,12 @@ p {
       background-color: rgba(#000, 0.1);
     }
   }
+  img {
+    padding: 0 $gutter-s;
+    height: 40px;
+    margin-top: 17px;
+    width: 75px;
+  }
   nav {
     ul {
       list-style: none;
