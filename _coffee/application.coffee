@@ -146,7 +146,7 @@ categories =
 github =
   username: "takenet"
   api_url: "https://api.github.com"
-  at: "970ab65446e562b820b634d1d48408faf0a58e9b"
+  at: "077be9086e2ef3479e91c8b7682dfb2fcd0d0112"
   cat_temp: ''
   cat_key_temp: ''
   repo_count: 0
