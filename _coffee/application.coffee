@@ -53,94 +53,100 @@ app =
 
 
 categories =
-  'build-time':
-    0: 16004885 # sqlite-analyzer
-    1: 25312557 # bintray-release
-    2: 19490270 # gradle-android-command-plugin
-    3: 10677957 # robolectric-plugin
-    4: 17395619 # gradle-android-jacoco-plugin
-    5: 53143469 # ios-demos
-  'run-time':
-    0: 11662606 # notils
-    1: 35211795 # download-manager
-    2: 35604965 # rxmocks
-    3: 35604995 # rxpresso
-    4: 46065249 # simple-chrome-custom-tabs
-    5: 10883852 # simple-easy-xml-parser
-    6: 9941578  # merlin
-    7: 1077753  # sqlite-provider
-    8: 35665177 # landing-strip
-    9: 2161802  # image-loader
-    10: 55979944 # view-pager-adapter
-    11: 54135763 # accessibilitools
+  'documentations':
+    0: 29869246 # lime
+    1: 48433542 # messaginghub-docs
+    2: 49142034 # markdocs
+    3: 49263482 # MarkdownSharp-GithubCodeBlocks 
+  'web':
+    0: 48236052 # DefinitelyTyped 
+  'messaging-libs':
+    0: 13923445  # CorrectNumber
+    1: 14797019 # libphonenumber-csharp
+    2: 18225451 # lime-csharp
+    3: 29746487 # lime-java  
+    4: 36456287 # SignalR
+    5: 43025281 # Take.IO
+    6: 44409566 # tangram-notification-listener
+    7: 44410892 # tangram-notification-listener-bin
+    8: 44615818 # tangram-flows-provisioning
+    9: 47768728 # messaginghub-client-csharp
+    10: 47823021 # lime-js
+    11: 48108328 # messaginghub-client-js
+    12: 48689508 # textc-csharp
+    13: 52841345 # messaginghub-client-java
+    14: 60376320 # lime-transport-websocket
   'apps':
-    0: 47839983 # snowy-village-wallpaper
-    1: 44617096 # droidcon-booth
-    2: 31185420 # material-painter
-    3: 31650174 # iosched-webapp
-    4: 50032733 # novoda.github.io
-  'scripting':
-    0: 32337114 # aosp.changelog.to
-    1: 26584518 # novoda
-    2: 13472524 # gradle-android-test-plugin
-    3: 2168934  # public-mvn-repo
+    0: 26484613 # TokenAutoComplete
+    1: 28351385 # ormlite-android
+    2: 28351416 # ormlite-core
+    3: 29748747 # Org.Lucasr.TwoWayView-Xamarin-Binding
+    4: 30649385 # emojicon
+    5: 35505612  # SnackBar
+    6: 36248158 # FreshMvvm
+    7: 39843491 # Xamarin-Forms-Labs
+  'tools':
+    0: 13860708  # library.data
+    1: 13864228 # library.logging
+    2: 16308759 # Takenet.ScoreSystem
+    3: 18210631 # ServiceStack.Text
+    4: 50101611 # rabbitmq-dotnet-client
   'do-not-list':
-    0: 6509909  # dojos
-    1: 13300550 # spikes
-    2: 260841   # android-demos
-    3: 24189087 # RxAndroid
-    4: 22604806 # ci-game-plugin
-    5: 27539225 # junit-plugin
-    6: 23464489 # pmd
-    7: 27084480 # github-oauth-plugin
-    8: 41148441 # hubot-slack
-    9: 52445441 # ExoPlayer
-    10: 52599862 # aws-java-sample
+    0: 15866473 # Takenet.Radar
+    1: 31331508 # _takenet.github.io
+    2: 34530604 # TakePonto
+    3: 54596596 # science-lab-contact
+    4: 65389115 # takenet.github.io
 
 ### Repository IDs
-2161802  # image-loader
-35604995 # rxpresso
-1077753  # sqlite-provider
-25312557 # bintray-release
-9941578  # merlin
-31185420 # material-painter
-19490270 # gradle-android-command-plugin
-11662606 # notils
-13472524 # gradle-android-test-plugin
-35211795 # download-manager
-10677957 # robolectric-plugin
-16004885 # sqlite-analyzer
-46065249 # simple-chrome-custom-tabs
-35604965 # rxmocks
-10883852 # simple-easy-xml-parser
-47839983 # snowy-village-wallpaper
-44617096 # droidcon-booth
-17395619 # gradle-android-jacoco-plugin
-26584518 # novoda
-31650174 # iosched-webapp
-2168934  # public-mvn-repo
-32337114 # aosp.changelog.to
-24189087 # RxAndroid
-35665177 # landing-strip
-55979944 # view-pager-adapter
-28082079 # cast-receiver
-22604806 # ci-game-plugin
-27539225 # junit-plugin
-23464489 # pmd
-27084480 # github-oauth-plugin
-41148441 # hubot-slack
-52445441 # ExoPlayer
-52599862 # aws-java-sample
-53143469 # ios-demos
-54135763 # accessibilitools
-50032733 # novoda.github.io
+13860708  # library.data
+13864228 # library.logging
+13923445  # CorrectNumber
+14797019 # libphonenumber-csharp
+15866473  # Takenet.Radar
+16308759 # Takenet.ScoreSystem
+18210631 # ServiceStack.Text
+18225451 # lime-csharp
+26484613 # TokenAutoComplete
+28351385 # ormlite-android
+28351416 # ormlite-core
+29059471 # java-client *
+29746487 # lime-java
+29748747 # Org.Lucasr.TwoWayView-Xamarin-Binding
+29869246 # lime
+30649385 # emojicon
+31331508 # _takenet.github.io
+32214523 # elephant
+32340836 # pop-recarga-woocommerce-plugin
+34530604 # TakePonto
+35505612  # SnackBar
+36248158 # FreshMvvm
+36456287 # SignalR
+39843491 # Xamarin-Forms-Labs
+43025281 # Take.IO
+44409566 # tangram-notification-listener
+44410892 # tangram-notification-listener-bin
+44615818 # tangram-flows-provisioning
+47768728 # messaginghub-client-csharp
+47823021 # lime-js
+48108328 # messaginghub-client-js
+48236052 # DefinitelyTyped
+48433542 # messaginghub-docs
+48689508 # textc-csharp
+49142034 # markdocs
+49263482 # MarkdownSharp-GithubCodeBlocks
+50101611 # rabbitmq-dotnet-client
+52841345 # messaginghub-client-java
+54596596 # science-lab-contact
+60376320 # lime-transport-websocket
+65389115 # takenet.github.io
 ###
 
 
 github =
-  username: "novoda"
+  username: "takenet"
   api_url: "https://api.github.com"
-  at: "077be9086e2ef3479e91c8b7682dfb2fcd0d0112"
+  at: "56c4cfa4e3c3cd23b6376e4f130809b59ace2ae5"
   cat_temp: ''
   cat_key_temp: ''
   repo_count: 0
