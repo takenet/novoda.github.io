@@ -1,4 +1,4 @@
-OS Landing Page http://novoda.github.io
+OS Landing Page http://takenet.github.io
 ======
 
 A beautiful and simple landing page template to show Github's open source projects.

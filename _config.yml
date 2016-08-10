@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Novoda Open Source
-email: info@novoda.com
-description: Novoda’s Open Source projects help you write cleaner, more responsive, automated code, and provide some of the greatest tools for agile software development.
+title: Takenet Open Source
+email: contato@take.net
+description: Takenet’s Open Source projects help you write cleaner, more responsive, automated code, and provide some of the greatest tools for messaging development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://novoda.github.io" # the base hostname & protocol for your site
-twitter_username: novoda
-github_username:  novoda
+url: "http://takenet.github.io" # the base hostname & protocol for your site
+twitter_username: takenet
+github_username:  takenet
 
 # Build settings
 markdown: kramdown
