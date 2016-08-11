@@ -57,7 +57,8 @@ categories =
     0: 29869246 # lime
     1: 48433542 # messaginghub-docs
     2: 49142034 # markdocs
-    3: 49263482 # MarkdownSharp-GithubCodeBlocks 
+    3: 49263482 # MarkdownSharp-GithubCodeBlocks
+    4: 43025281 # Take.IO
   'web':
     0: 48236052 # DefinitelyTyped 
   'messaging-libs':
@@ -66,16 +67,15 @@ categories =
     2: 18225451 # lime-csharp
     3: 29746487 # lime-java  
     4: 36456287 # SignalR
-    5: 43025281 # Take.IO
-    6: 44409566 # tangram-notification-listener
-    7: 44410892 # tangram-notification-listener-bin
-    8: 44615818 # tangram-flows-provisioning
-    9: 47768728 # messaginghub-client-csharp
-    10: 47823021 # lime-js
-    11: 48108328 # messaginghub-client-js
-    12: 48689508 # textc-csharp
-    13: 52841345 # messaginghub-client-java
-    14: 60376320 # lime-transport-websocket
+    5: 44409566 # tangram-notification-listener
+    6: 44410892 # tangram-notification-listener-bin
+    7: 44615818 # tangram-flows-provisioning
+    8: 47768728 # messaginghub-client-csharp
+    9: 47823021 # lime-js
+    10: 48108328 # messaginghub-client-js
+    11: 48689508 # textc-csharp
+    12: 52841345 # messaginghub-client-java
+    13: 60376320 # lime-transport-websocket
   'apps':
     0: 26484613 # TokenAutoComplete
     1: 28351385 # ormlite-android
