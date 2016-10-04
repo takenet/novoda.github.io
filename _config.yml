@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Takenet Open Source
+title: take.OpenSource
 email: contato@take.net
-description: Takenet’s Open Source projects help you write cleaner, more responsive, automated code, and provide some of the greatest tools for messaging development.
+description: takenet’s Open Source projects help you write cleaner, more responsive, automated code, and provide some of the greatest tools for messaging development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://takenet.github.io" # the base hostname & protocol for your site
 twitter_username: takenet
