@@ -55,48 +55,68 @@ app =
 categories =
   'documentations':
     0: 29869246 # lime
-    1: 48433542 # messaginghub-docs
-    2: 49142034 # markdocs
-    3: 49263482 # MarkdownSharp-GithubCodeBlocks
-    4: 43025281 # Take.IO
+    1: 104106362 # blip-docs
+    2: 137491987 # blip-toolkit-docs
+    3: 43025281 # Take.IO
+    4: 107960458 # blip-webhook-samples
   'web':
-    0: 48236052 # DefinitelyTyped 
+    0: 48236052 # DefinitelyTyped
+    1: 112517552 # parsemetadata
+  'blip':
+    0: 104934333 # blip-sdk-js
+    1: 78526933 # blip-chat-ios
+    2: 127461205 # blip-CLI
+    3: 94437568 # blip-sdk-csharp
+    4: 120639672 # blip-chat-widget
+    5: 129412593 # blip-toolkit
+    6: 124117021 # blip-chat-extension
+    7: 78028475 # blip-chat-android
+    8: 108291218 # blip-cards-ios
+    9: 108877052 # blip-cards-vue-components
+    10: 111943391 # blip-components
+    11: 102865506 # blip-sdk-java
+    12: 95885876 # blip-client-testing-csharp
   'messaging-libs':
     0: 13923445  # CorrectNumber
     1: 14797019 # libphonenumber-csharp
     2: 18225451 # lime-csharp
     3: 29746487 # lime-java  
-    4: 36456287 # SignalR
-    5: 44409566 # tangram-notification-listener
-    6: 44410892 # tangram-notification-listener-bin
-    7: 44615818 # tangram-flows-provisioning
-    8: 47768728 # messaginghub-client-csharp
-    9: 47823021 # lime-js
-    10: 48108328 # messaginghub-client-js
-    11: 48689508 # textc-csharp
-    12: 52841345 # messaginghub-client-java
-    13: 60376320 # lime-transport-websocket
+    4: 44409566 # tangram-notification-listener
+    5: 44410892 # tangram-notification-listener-bin
+    6: 44615818 # tangram-flows-provisioning
+    7: 47823021 # lime-js
+    8: 48689508 # textc-csharp
+    9: 60376320 # lime-js-transports
   'apps':
     0: 26484613 # TokenAutoComplete
     1: 28351385 # ormlite-android
     2: 28351416 # ormlite-core
     3: 29748747 # Org.Lucasr.TwoWayView-Xamarin-Binding
     4: 30649385 # emojicon
-    5: 35505612  # SnackBar
+    5: 35505612 # SnackBar
     6: 36248158 # FreshMvvm
     7: 39843491 # Xamarin-Forms-Labs
   'tools':
-    0: 13860708  # library.data
+    0: 13860708 # library.data
     1: 13864228 # library.logging
     2: 16308759 # Takenet.ScoreSystem
-    3: 18210631 # ServiceStack.Text
-    4: 50101611 # rabbitmq-dotnet-client
+    3: 149455670 # feature-toggle-client
+    4: 150332582 # monitoring-error-handler
+    5: 32214523 # elephant
   'do-not-list':
     0: 15866473 # Takenet.Radar
     1: 31331508 # _takenet.github.io
     2: 34530604 # TakePonto
     3: 54596596 # science-lab-contact
     4: 65389115 # takenet.github.io
+    5: 48433542 # messaginghub-docs
+    6: 36456287 # SignalR
+    7: 47768728 # messaginghub-client-csharp
+    8: 48108328 # messaginghub-client-js
+    9: 52841345 # messaginghub-client-java
+    10: 48236052 # DefinitelyTyped
+    11: 50101611 # rabbitmq-dotnet-client
+    12: 18210631 # ServiceStack.Text
 
 ### Repository IDs
 13860708  # library.data
@@ -138,8 +158,28 @@ categories =
 50101611 # rabbitmq-dotnet-client
 52841345 # messaginghub-client-java
 54596596 # science-lab-contact
-60376320 # lime-transport-websocket
+60376320 # lime-js-transports
 65389115 # takenet.github.io
+104106362 # blip-docs
+137491987 # blip-toolkit-docs
+104934333 # blip-sdk-js
+4369522 # blip-chat-ios
+127461205 # blip-CLI
+94437568 # blip-sdk-csharp
+120639672 # blip-chat-widget
+129412593 # blip-toolkit
+124117021 # blip-chat-extension
+78028475 # blip-chat-android
+108291218 # blip-cards-ios
+111943391 # blip-components
+108877052 # blip-cards-vue-components
+102865506 # blip-sdk-java
+107960458 # blip-webhook-samples
+95885876 # blip-client-testing-csharp
+60376320 # lime-js-transports
+149455670 # feature-toggle-client
+150332582 # monitoring-error-handler
+112517552 # parsemetadata
 ###
 
 
